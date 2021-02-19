@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter app development or any tech related stuff.
 - ⚡ 2021 Goals : Contribute more to open source projects. 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/deepak-prajapati-08b8b3191/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Let's watch Marvel series again XD
 
